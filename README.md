@@ -6,7 +6,7 @@ I. The "So You're Both" (hereafter SYB) Understanding of Code (also known as 'SY
 II. By referring to the "SYB Code" in my work, I am including the fundamental ideas, implications, and applications of these concepts of the SYB Code in the remainder of my work, whether in code, writing, speech, or any cooperative effort. Therefore, it is prerequisite that this "SYB Code" be reviewed, understood, and agreed to as being part of said work it was referred to in.
 
 III. Identifyability of Color: I believe the following about color...
-1. Color is identifyable. I mean nothing biggotous by identifying a color by a name that helps to recognize a color nor by holding an understanding of color as explained here in this SYB Code.
+1. Color is identifyable. I mean nothing bigotous by identifying a color by a name that helps to recognize a color nor by holding an understanding of color as explained here in this SYB Code.
 2. Color is unique. In the R-G-B color spectrum, for example, red is other than blue or green.
 3. Color is combinable. Color can include "SYB". For example, "cyan" (#00FFFF) is blue and green, even though blue is not green and green is not blue.
 4. Color is distinct. #FF00FF cannot be #FFFF00. Retaining this distinction is necessary to preserve and enjoy the beauty of colors. This is least of all "limiting" and most of all "empowering".
@@ -16,7 +16,7 @@ III. Identifyability of Color: I believe the following about color...
 8. Exceptions to color presumptions always exist. This is presumed to be necessary and expected.
 
 IV. Identifyability of Geometry: I believe the following about geometry...
-1. Geometry is identifyable. I mean nothing biggotous by identifying a geometric shape by a name that helps to recognize that shape nor by holding an understanding of geometry as explained here in the SYB Code.
+1. Geometry is identifyable. I mean nothing bigotous by identifying a geometric shape by a name that helps to recognize that shape nor by holding an understanding of geometry as explained here in the SYB Code.
 2. Geometry is unique. In Euclidean geometry, for example, a plane is other than a point, sphere, or line.
 3. Geometry is combinable. Geometry can include "SYB". For example, a plane is a point and a line, eventhough the line is not the point and the point is not the line.
 4. Geometry is distinct. A cube cannot be a sphere. Retaining this distinction is necessary to preserve and enjoy the beauty of geometry. This is least of all "limiting" and most of all "empowering".
@@ -26,7 +26,7 @@ IV. Identifyability of Geometry: I believe the following about geometry...
 8. Exceptions to geometric presumptions always exist. This is presumed to be necessary and expected.
 
 V. Identifyability of Language: I believe the following about language...
-1. Language is identifyable. I mean nothing biggotous by identifying a language, its rules of syntax and vocabulary, and the name for a language that helps to recognize that language nor by holding an understanding of language as explained here in the SYB Code.
+1. Language is identifyable. I mean nothing bigotous by identifying a language, its rules of syntax and vocabulary, and the name for a language that helps to recognize that language nor by holding an understanding of language as explained here in the SYB Code.
 2. Language is unique. In a human language, for example, a noun is other than a verb, adjective, or article.
 3. Language is combinable. Language can include "SYB". For example, a gerund is noun and a verb, eventhough the gerund is not the noun and the verb is not the gerund.
 4. Language is distinct. English cannot be Spanish. Retaining this distinction is necessary to preserve and enjoy the beauty of language. This is least of all "limiting" and most of all "empowering".
