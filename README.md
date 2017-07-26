@@ -1,6 +1,8 @@
 # SYB Code
 *The SYB Understanding of Code: "So You're Both"*
+
 I. The "So You're Both" (hereafter SYB) Understanding of Code (also known as 'SYB Code') is a worldview perspective based on an understanding of computer and human languages.
+
 II. By referring to the "SYB Code" in my work, I am including the fundamental ideas, implications, and applications of these concepts of the SYB Code in the remainder of my work, whether in code, writing, speech, or any cooperative effort. Therefore, it is prerequisite that this SYB Code be reviewed, understood, and agreed to as being part of said work it was referred to in.
 
 III. Identifiability of Color: I believe the following about color...
