@@ -1,9 +1,9 @@
 # SYB Code
 *The SYB Understanding of Code: "So You're Both"*
 
-I. The "So You're Both" (hereafter SYB) Understanding of Code (also known as 'SYB Code') is a worldview perspective based on an understanding of computer and human languages.
+I. The "So You're Both" (hereafter SYB) Understanding of Code (also known as 'SYB Code') is a worldview perspective based on an understanding of computer and human languages. The concept "So You're Both" implies the presumed pluralitability of distinct constructs.
 
-II. By referring to the "SYB Code" in my work, I am including the fundamental ideas, implications, and applications of these concepts of the SYB Code in the remainder of my work, whether in code, writing, speech, or any cooperative effort. Therefore, it is prerequisite that this SYB Code be reviewed, understood, and agreed to as being part of said work it was referred to in.
+II. By referring to the "SYB Code" in my work, I am including the fundamental ideas, implications, and applications of these concepts of the SYB Code in the remainder of my work, whether in code, writing, speech, or any cooperative effort. Therefore, it is prerequisite that this "SYB Code" be reviewed, understood, and agreed to as being part of said work it was referred to in.
 
 III. Identifyability of Color: I believe the following about color...
 1. Color is identifyable. I mean nothing biggotous by identifying a color by a name that helps to recognize a color nor by holding an understanding of color as explained here in this SYB Code.
